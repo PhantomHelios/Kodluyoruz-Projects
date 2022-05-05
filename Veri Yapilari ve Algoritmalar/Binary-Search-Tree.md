@@ -2,4 +2,4 @@
 
 - [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
 
-![](http://url/to/img.png)
+![](https://github.com/PhantomHelios/Kodluyoruz-Projects/blob/main/Veri%20Yapilari%20ve%20Algoritmalar/BST.jpeg)
