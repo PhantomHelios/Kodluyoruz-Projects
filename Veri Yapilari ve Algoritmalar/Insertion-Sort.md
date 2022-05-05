@@ -11,13 +11,16 @@
     [2,6,16,18,22,27]
 
 2 - Big-O gösterimini yazınız.
+
     İç içe for kullanıldığı için => O(n^2)
 
 3 - Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
+
     İç for döngüsüne hiç girmeyeceğimiz için => best case O(n)
     Worst ve average case => O(n^2)
 
 4 - Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
+
     18 listede sona yakın olduğu için worst case e girer.
 
 
